@@ -16,3 +16,5 @@ let value2 = value + "5000";
  */
 const money = currency + "" + value2;
 console.log(money);
+
+//cuma buat test latian Github
